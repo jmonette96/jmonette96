@@ -1,4 +1,4 @@
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)  ![Jason Monette](https://img.shields.io/badge/Jason%20Monette-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jason Monette](https://img.shields.io/badge/Jason%20Monette-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 👋
 
