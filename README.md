@@ -1,5 +1,9 @@
 ![badge1](https://img.shields.io/badge/Coder-Jason-blue)
 
-### Howdy 👋
+### 👋
 
-- 🔭 As a recent graduate in Full Stack Web Development, I am equipped with a diverse set of technical skills and a passion for creating innovative and user-friendly web applications. Throughout my academic journey, I have gained proficiency in front-end technologies such as HTML, CSS, and JavaScript, enabling me to craft engaging and responsive user interfaces. Additionally, I have honed my skills in back-end development, working with frameworks like Node.js and Express, and databases such as MongoDB. 
+I’m a Network Administration student at John Abbott College, graduating in December 2026. Through hands-on projects and labs, I have developed experience with Windows Server, Active Directory, Linux administration, Cisco routing and switching, pfSense, virtualization, Docker, network security, and scripting.
+
+I also hold a diploma in Full-Stack Web Development from Concordia University and bring professional experience in supervision, customer service, and team coordination. This combination has strengthened my troubleshooting, communication, documentation, and problem-solving abilities.
+
+I’m currently seeking a network administration internship or entry-level IT position where I can contribute my technical skills, continue learning, and gain experience supporting real-world infrastructure. 
