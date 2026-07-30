@@ -1,6 +1,6 @@
 ![Jason Monette](https://img.shields.io/badge/Jason%20Monette-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 👋
+###👋
 
 I’m a Network Administration student at John Abbott College, graduating in December 2026. Through hands-on projects and labs, I have developed experience with Windows Server, Active Directory, Linux administration, Cisco routing and switching, pfSense, virtualization, Docker, network security, and scripting.
 
